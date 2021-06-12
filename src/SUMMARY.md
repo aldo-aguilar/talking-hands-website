@@ -7,3 +7,4 @@
     - [The Talk Box](pages/talkbox.md)
     - [Hand Tracking](pages/hand_tracking.md)
 - [The Final Prototype](pages/final.md)
+- [Code](pages/code.md)
